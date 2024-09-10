@@ -1,0 +1,61 @@
+[
+  {
+    "numero": 1,
+    "bioma": "savana",
+    "tamanhoTotal": 10,
+    "animaisExistentes": [
+      {
+        "especie": "MACACO",
+        "quantidade": 3,
+        "tamanho": 1,
+        "ocupacao": 3
+      }
+    ]
+  },
+  {
+    "numero": 2,
+    "bioma": "floresta",
+    "tamanhoTotal": 5,
+    "animaisExistentes": [
+      {
+        "ocupacao": 0
+      }
+    ]
+  },
+  {
+    "numero": 3,
+    "bioma": "savana e rio",
+    "tamanhoTotal": 7,
+    "animaisExistentes": [
+      {
+        "especie": "GAZELA",
+        "quantidade": 1,
+        "tamanho": 2,
+        "ocupacao": 2
+      }
+    ]
+  },
+  {
+    "numero": 4,
+    "bioma": "rio",
+    "tamanhoTotal": 8,
+    "animaisExistentes": [
+      {
+        "ocupacao": 0
+      }
+    ]
+  },
+  {
+    "numero": 5,
+    "bioma": "savana",
+    "tamanhoTotal": 8,
+    "animaisExistentes": [
+      {
+        "especie": "LEAO",
+        "quantidade": 1,
+        "tamanho": 3,
+        "ocupacao": 3
+      }
+    ]
+  }
+]
